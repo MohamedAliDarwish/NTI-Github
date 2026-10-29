@@ -9,4 +9,6 @@ void main(List<String> arguments) {
   print(name);
 
   print("Welcome $name");
+
+  print("Hello ${name}");
 }
