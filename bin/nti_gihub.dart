@@ -7,4 +7,6 @@ void main(List<String> arguments) {
 
   String name = "Mohamed";
   print(name);
+
+  print("Welcome $name");
 }
